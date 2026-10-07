@@ -31,9 +31,9 @@ A native macOS app for moving files between your Mac and Nintendo Switch over US
 
 49 seconds · Recorded in PlugOnce.
 
-<video src="https://raw.githubusercontent.com/foxsetDev/PlugOnce-macOS/main/media/introduction-en.mp4" controls width="100%"></video>
+https://github.com/user-attachments/assets/2752efdf-2ac2-4db7-ab00-dee16095b9c1
 
-[Open video ↗](media/introduction-en.mp4)
+[Open video ↗](https://github.com/user-attachments/assets/2752efdf-2ac2-4db7-ab00-dee16095b9c1)
 
 ## Files, packages, captures and saves
 
@@ -73,9 +73,9 @@ A native macOS app for moving files between your Mac and Nintendo Switch over US
 
 <a id="files"></a>
 
-<video src="https://raw.githubusercontent.com/foxsetDev/PlugOnce-macOS/main/media/files.mp4" controls width="100%"></video>
+https://github.com/user-attachments/assets/48f87b4b-fdc3-4489-8d09-4e3bf863a4ca
 
-[Open video ↗](media/files.mp4) · [Captions](media/files.en.vtt)
+[Open video ↗](https://github.com/user-attachments/assets/48f87b4b-fdc3-4489-8d09-4e3bf863a4ca) · [Captions](media/files.en.vtt)
 
 </details>
 
@@ -84,9 +84,9 @@ A native macOS app for moving files between your Mac and Nintendo Switch over US
 
 <a id="packages"></a>
 
-<video src="https://raw.githubusercontent.com/foxsetDev/PlugOnce-macOS/main/media/packages.mp4" controls width="100%"></video>
+https://github.com/user-attachments/assets/60fc0fde-c947-49a4-8da0-5084afa50f0d
 
-[Open video ↗](media/packages.mp4) · [Captions](media/packages.en.vtt)
+[Open video ↗](https://github.com/user-attachments/assets/60fc0fde-c947-49a4-8da0-5084afa50f0d) · [Captions](media/packages.en.vtt)
 
 </details>
 
@@ -95,9 +95,9 @@ A native macOS app for moving files between your Mac and Nintendo Switch over US
 
 <a id="captures"></a>
 
-<video src="https://raw.githubusercontent.com/foxsetDev/PlugOnce-macOS/main/media/captures.mp4" controls width="100%"></video>
+https://github.com/user-attachments/assets/7336b7a6-73d3-449b-a9df-e077c1d7fd6f
 
-[Open video ↗](media/captures.mp4) · [Captions](media/captures.en.vtt)
+[Open video ↗](https://github.com/user-attachments/assets/7336b7a6-73d3-449b-a9df-e077c1d7fd6f) · [Captions](media/captures.en.vtt)
 
 </details>
 
@@ -106,9 +106,9 @@ A native macOS app for moving files between your Mac and Nintendo Switch over US
 
 <a id="saves"></a>
 
-<video src="https://raw.githubusercontent.com/foxsetDev/PlugOnce-macOS/main/media/saves.mp4" controls width="100%"></video>
+https://github.com/user-attachments/assets/494dfc2a-992d-461a-9be3-333949db22ac
 
-[Open video ↗](media/saves.mp4) · [Captions](media/saves.en.vtt)
+[Open video ↗](https://github.com/user-attachments/assets/494dfc2a-992d-461a-9be3-333949db22ac) · [Captions](media/saves.en.vtt)
 
 </details>
 

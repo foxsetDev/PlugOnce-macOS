@@ -38,30 +38,30 @@ https://github.com/user-attachments/assets/33d4689e-239f-4183-9313-531b25bc4b2c
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="#files"><img src="assets/covers/files.webp" alt="Файлы" width="560"></a>
+      <a href="#demo-files"><img src="assets/covers/files.webp" alt="Файлы" width="560"></a>
       <h3>Файлы</h3>
       <p>Открывайте SD-карту, находите папки и переносите файлы между Mac и Switch.</p>
-      <a href="#files">▶ Смотреть · 0:15</a>
+      <a href="#demo-files">▶ Смотреть · 0:15</a>
     </td>
     <td width="50%" valign="top">
-      <a href="#packages"><img src="assets/covers/packages.webp" alt="Пакеты" width="560"></a>
+      <a href="#demo-packages"><img src="assets/covers/packages.webp" alt="Пакеты" width="560"></a>
       <h3>Пакеты</h3>
       <p>Отправляйте NSP, NSZ, XCI и XCZ в DBI и следите за ходом каждой передачи.</p>
-      <a href="#packages">▶ Смотреть · 0:16</a>
+      <a href="#demo-packages">▶ Смотреть · 0:16</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="#captures"><img src="assets/covers/captures.webp" alt="Снимки и видео" width="560"></a>
+      <a href="#demo-captures"><img src="assets/covers/captures.webp" alt="Снимки и видео" width="560"></a>
       <h3>Снимки и видео</h3>
       <p>Смотрите снимки и видео через Quick Look и импортируйте новые кадры.</p>
-      <a href="#captures">▶ Смотреть · 0:14</a>
+      <a href="#demo-captures">▶ Смотреть · 0:14</a>
     </td>
     <td width="50%" valign="top">
-      <a href="#saves"><img src="assets/covers/saves.webp" alt="Копии сохранений" width="560"></a>
+      <a href="#demo-saves"><img src="assets/covers/saves.webp" alt="Копии сохранений" width="560"></a>
       <h3>Копии сохранений</h3>
       <p>Копируйте доступные через DBI сохранения в папку с датой на Mac.</p>
-      <a href="#saves">▶ Смотреть · 0:17</a>
+      <a href="#demo-saves">▶ Смотреть · 0:17</a>
     </td>
   </tr>
 </table>
@@ -69,7 +69,7 @@ https://github.com/user-attachments/assets/33d4689e-239f-4183-9313-531b25bc4b2c
 <details>
 <summary><strong>▶ Файлы</strong> · 0:15</summary>
 
-<a id="files"></a>
+<a id="demo-files"></a>
 
 https://github.com/user-attachments/assets/48f87b4b-fdc3-4489-8d09-4e3bf863a4ca
 
@@ -80,7 +80,7 @@ https://github.com/user-attachments/assets/48f87b4b-fdc3-4489-8d09-4e3bf863a4ca
 <details>
 <summary><strong>▶ Пакеты</strong> · 0:16</summary>
 
-<a id="packages"></a>
+<a id="demo-packages"></a>
 
 https://github.com/user-attachments/assets/60fc0fde-c947-49a4-8da0-5084afa50f0d
 
@@ -91,7 +91,7 @@ https://github.com/user-attachments/assets/60fc0fde-c947-49a4-8da0-5084afa50f0d
 <details>
 <summary><strong>▶ Снимки и видео</strong> · 0:14</summary>
 
-<a id="captures"></a>
+<a id="demo-captures"></a>
 
 https://github.com/user-attachments/assets/7336b7a6-73d3-449b-a9df-e077c1d7fd6f
 
@@ -102,7 +102,7 @@ https://github.com/user-attachments/assets/7336b7a6-73d3-449b-a9df-e077c1d7fd6f
 <details>
 <summary><strong>▶ Копии сохранений</strong> · 0:17</summary>
 
-<a id="saves"></a>
+<a id="demo-saves"></a>
 
 https://github.com/user-attachments/assets/494dfc2a-992d-461a-9be3-333949db22ac
 

@@ -33,8 +33,6 @@
 
 https://github.com/user-attachments/assets/33d4689e-239f-4183-9313-531b25bc4b2c
 
-[Открыть видео ↗](https://github.com/user-attachments/assets/33d4689e-239f-4183-9313-531b25bc4b2c)
-
 ## Файлы, пакеты, альбом и сохранения
 
 <table>
@@ -75,7 +73,7 @@ https://github.com/user-attachments/assets/33d4689e-239f-4183-9313-531b25bc4b2c
 
 https://github.com/user-attachments/assets/48f87b4b-fdc3-4489-8d09-4e3bf863a4ca
 
-[Открыть видео ↗](https://github.com/user-attachments/assets/48f87b4b-fdc3-4489-8d09-4e3bf863a4ca) · [Субтитры](media/files.ru.vtt)
+[Субтитры](media/files.ru.vtt)
 
 </details>
 
@@ -86,7 +84,7 @@ https://github.com/user-attachments/assets/48f87b4b-fdc3-4489-8d09-4e3bf863a4ca
 
 https://github.com/user-attachments/assets/60fc0fde-c947-49a4-8da0-5084afa50f0d
 
-[Открыть видео ↗](https://github.com/user-attachments/assets/60fc0fde-c947-49a4-8da0-5084afa50f0d) · [Субтитры](media/packages.ru.vtt)
+[Субтитры](media/packages.ru.vtt)
 
 </details>
 
@@ -97,7 +95,7 @@ https://github.com/user-attachments/assets/60fc0fde-c947-49a4-8da0-5084afa50f0d
 
 https://github.com/user-attachments/assets/7336b7a6-73d3-449b-a9df-e077c1d7fd6f
 
-[Открыть видео ↗](https://github.com/user-attachments/assets/7336b7a6-73d3-449b-a9df-e077c1d7fd6f) · [Субтитры](media/captures.ru.vtt)
+[Субтитры](media/captures.ru.vtt)
 
 </details>
 
@@ -108,7 +106,7 @@ https://github.com/user-attachments/assets/7336b7a6-73d3-449b-a9df-e077c1d7fd6f
 
 https://github.com/user-attachments/assets/494dfc2a-992d-461a-9be3-333949db22ac
 
-[Открыть видео ↗](https://github.com/user-attachments/assets/494dfc2a-992d-461a-9be3-333949db22ac) · [Субтитры](media/saves.ru.vtt)
+[Субтитры](media/saves.ru.vtt)
 
 </details>
 

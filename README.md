@@ -33,8 +33,6 @@ A native macOS app for moving files between your Mac and Nintendo Switch over US
 
 https://github.com/user-attachments/assets/2752efdf-2ac2-4db7-ab00-dee16095b9c1
 
-[Open video ↗](https://github.com/user-attachments/assets/2752efdf-2ac2-4db7-ab00-dee16095b9c1)
-
 ## Files, packages, captures and saves
 
 <table>
@@ -75,7 +73,7 @@ https://github.com/user-attachments/assets/2752efdf-2ac2-4db7-ab00-dee16095b9c1
 
 https://github.com/user-attachments/assets/48f87b4b-fdc3-4489-8d09-4e3bf863a4ca
 
-[Open video ↗](https://github.com/user-attachments/assets/48f87b4b-fdc3-4489-8d09-4e3bf863a4ca) · [Captions](media/files.en.vtt)
+[Captions](media/files.en.vtt)
 
 </details>
 
@@ -86,7 +84,7 @@ https://github.com/user-attachments/assets/48f87b4b-fdc3-4489-8d09-4e3bf863a4ca
 
 https://github.com/user-attachments/assets/60fc0fde-c947-49a4-8da0-5084afa50f0d
 
-[Open video ↗](https://github.com/user-attachments/assets/60fc0fde-c947-49a4-8da0-5084afa50f0d) · [Captions](media/packages.en.vtt)
+[Captions](media/packages.en.vtt)
 
 </details>
 
@@ -97,7 +95,7 @@ https://github.com/user-attachments/assets/60fc0fde-c947-49a4-8da0-5084afa50f0d
 
 https://github.com/user-attachments/assets/7336b7a6-73d3-449b-a9df-e077c1d7fd6f
 
-[Open video ↗](https://github.com/user-attachments/assets/7336b7a6-73d3-449b-a9df-e077c1d7fd6f) · [Captions](media/captures.en.vtt)
+[Captions](media/captures.en.vtt)
 
 </details>
 
@@ -108,7 +106,7 @@ https://github.com/user-attachments/assets/7336b7a6-73d3-449b-a9df-e077c1d7fd6f
 
 https://github.com/user-attachments/assets/494dfc2a-992d-461a-9be3-333949db22ac
 
-[Open video ↗](https://github.com/user-attachments/assets/494dfc2a-992d-461a-9be3-333949db22ac) · [Captions](media/saves.en.vtt)
+[Captions](media/saves.en.vtt)
 
 </details>
 

@@ -38,77 +38,33 @@ https://github.com/user-attachments/assets/2752efdf-2ac2-4db7-ab00-dee16095b9c1
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="#demo-files"><img src="assets/covers/files.webp" alt="Files" width="560"></a>
+      <a href="DEMOS.md#demo-files"><img src="assets/covers/files.webp" alt="Files" width="560"></a>
       <h3>Files</h3>
       <p>Open your SD card, find a folder and move files between Mac and Switch.</p>
-      <a href="#demo-files">▶ Watch · 0:15</a>
+      <a href="DEMOS.md#demo-files">▶ Watch · 0:15</a>
     </td>
     <td width="50%" valign="top">
-      <a href="#demo-packages"><img src="assets/covers/packages.webp" alt="Packages" width="560"></a>
+      <a href="DEMOS.md#demo-packages"><img src="assets/covers/packages.webp" alt="Packages" width="560"></a>
       <h3>Packages</h3>
       <p>Send NSP, NSZ, XCI and XCZ packages to DBI with progress for each transfer.</p>
-      <a href="#demo-packages">▶ Watch · 0:16</a>
+      <a href="DEMOS.md#demo-packages">▶ Watch · 0:16</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="#demo-captures"><img src="assets/covers/captures.webp" alt="Screenshots & videos" width="560"></a>
+      <a href="DEMOS.md#demo-captures"><img src="assets/covers/captures.webp" alt="Screenshots & videos" width="560"></a>
       <h3>Screenshots & videos</h3>
       <p>Browse screenshots and videos, use Quick Look and import new captures.</p>
-      <a href="#demo-captures">▶ Watch · 0:14</a>
+      <a href="DEMOS.md#demo-captures">▶ Watch · 0:14</a>
     </td>
     <td width="50%" valign="top">
-      <a href="#demo-saves"><img src="assets/covers/saves.webp" alt="Save backups" width="560"></a>
+      <a href="DEMOS.md#demo-saves"><img src="assets/covers/saves.webp" alt="Save backups" width="560"></a>
       <h3>Save backups</h3>
       <p>Copy saves exposed by DBI to a dated folder on your Mac.</p>
-      <a href="#demo-saves">▶ Watch · 0:17</a>
+      <a href="DEMOS.md#demo-saves">▶ Watch · 0:17</a>
     </td>
   </tr>
 </table>
-
-<details>
-<summary><strong>▶ Files</strong> · 0:15</summary>
-
-<a id="demo-files"></a>
-
-https://github.com/user-attachments/assets/48f87b4b-fdc3-4489-8d09-4e3bf863a4ca
-
-[Captions](media/files.en.vtt)
-
-</details>
-
-<details>
-<summary><strong>▶ Packages</strong> · 0:16</summary>
-
-<a id="demo-packages"></a>
-
-https://github.com/user-attachments/assets/60fc0fde-c947-49a4-8da0-5084afa50f0d
-
-[Captions](media/packages.en.vtt)
-
-</details>
-
-<details>
-<summary><strong>▶ Screenshots & videos</strong> · 0:14</summary>
-
-<a id="demo-captures"></a>
-
-https://github.com/user-attachments/assets/7336b7a6-73d3-449b-a9df-e077c1d7fd6f
-
-[Captions](media/captures.en.vtt)
-
-</details>
-
-<details>
-<summary><strong>▶ Save backups</strong> · 0:17</summary>
-
-<a id="demo-saves"></a>
-
-https://github.com/user-attachments/assets/494dfc2a-992d-461a-9be3-333949db22ac
-
-[Captions](media/saves.en.vtt)
-
-</details>
 
 ## Connected in three steps
 

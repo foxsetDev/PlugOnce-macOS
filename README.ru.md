@@ -116,7 +116,9 @@ pi install git:github.com/foxsetDev/PlugOnce-macOS
 
 ## Вопросы и обратная связь
 
-Заходите на [форум PlugOnce](https://forum.foxset.tech/). Если не получается подключиться, укажите версии PlugOnce и macOS и этап, который показывает Device Doctor.
+Об ошибках и предложениях можно писать в [GitHub Issues](https://github.com/foxsetDev/PlugOnce-macOS/issues). Если не получается подключиться, укажите версии PlugOnce и macOS и этап, который показывает Device Doctor. Также можно обратиться на [форум PlugOnce](https://forum.foxset.tech/).
+
+Эта витрина не является открытым исходным кодом. [Лицензия](LICENSE) разрешает устанавливать и использовать навык `plugonce-develop` вместе с PlugOnce без изменений; для изменения или распространения нужно письменное разрешение. Изменения кода и pull request не принимаются.
 
 ---
 

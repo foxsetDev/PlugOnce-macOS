@@ -4,6 +4,8 @@
 
 The public package lives at `foxsetDev/PlugOnce-macOS` → `skills/plugonce-develop`. It includes the skill and its self-contained helpers; the PlugOnce application is distributed separately.
 
+The [license](../LICENSE) permits installing and running the skill unmodified with PlugOnce. Modifications and redistribution require written permission. Report bugs or suggest features in [GitHub Issues](https://github.com/foxsetDev/PlugOnce-macOS/issues); pull requests are not accepted.
+
 ## Install in Pi from GitHub
 
 ```fish

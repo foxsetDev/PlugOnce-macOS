@@ -116,7 +116,9 @@ Start Pi or run `/reload` in an existing session, then use `/skill:plugonce-deve
 
 ## Questions or feedback?
 
-Visit the [PlugOnce forum](https://forum.foxset.tech/). For a connection problem, include your PlugOnce and macOS versions and the stage reported by Device Doctor.
+Bug reports and feature requests are welcome in [GitHub Issues](https://github.com/foxsetDev/PlugOnce-macOS/issues). For a connection problem, include your PlugOnce and macOS versions and the stage reported by Device Doctor. You can also visit the [PlugOnce forum](https://forum.foxset.tech/).
+
+This showcase is not open source. The [license](LICENSE) permits installing and using the unmodified `plugonce-develop` skill with PlugOnce; modifying or redistributing it requires written permission. Code changes and pull requests are not accepted.
 
 ---
 

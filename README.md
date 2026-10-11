@@ -82,6 +82,7 @@ https://github.com/user-attachments/assets/2752efdf-2ac2-4db7-ab00-dee16095b9c1
 - **Device Doctor** to see which connection step needs attention.
 - **Local Wi-Fi transfer** through a browser while PlugOnce is open.
 - **Light and dark themes**, with English and Russian interfaces.
+- **Developer mode (preview)**: a compact SD window, an expandable agent panel and NRO launch/log commands. [Developer guide →](DEVELOPMENT.md)
 
 <details>
 <summary><strong>Raycast and local AI agents</strong></summary>
@@ -98,6 +99,20 @@ Agent Access lets local tools find files, read favorites and prepare transfers. 
 DBI workflows require a console that can already run DBI. A completed package transfer means the data reached DBI; check installation on the console. Save backups copy the data that DBI exposes. Interrupted transfers restart from the beginning.
 
 </details>
+
+## Developer mode and Pi
+
+Keep PlugOnce in a small SD window, pin it above other apps and let your existing agent work through the local CLI. The `plugonce-develop` skill covers building a port, deploying changed files, launching an NRO and collecting logs.
+
+Install the skill in Pi:
+
+```fish
+pi install git:github.com/foxsetDev/PlugOnce-macOS
+```
+
+Start Pi or run `/reload` in an existing session, then use `/skill:plugonce-develop`. **Preview:** runtime commands require a PlugOnce build that reports `runtime.launch` and `runtime.logs` in `--agent capabilities`; installing the skill does not add them to an older app.
+
+[Setup, workflow and limits →](DEVELOPMENT.md) · [Skill source →](skills/plugonce-develop/SKILL.md) · [Other agents →](skills/README.md)
 
 ## Questions or feedback?
 

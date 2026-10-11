@@ -1,0 +1,14 @@
+{
+  "name": "plugonce-agent-skills",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Build and debug Nintendo Switch ports with the PlugOnce Agent Bridge.",
+  "pi": {
+    "skills": [
+      "./skills/plugonce-develop"
+    ],
+    "extensions": [],
+    "prompts": [],
+    "themes": []
+  }
+}
